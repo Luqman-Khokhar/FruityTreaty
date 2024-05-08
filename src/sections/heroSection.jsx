@@ -44,7 +44,7 @@ const HeroSection = () => {
       <li><h1 className="hover:underline font-semibold">Blog</h1></li>
       <li><h1 className="hover:underline font-semibold">About Us</h1></li>
     </ul>
-  </nav>
+  </nav>``
 </div>
         <div className="flex-1  ">
           {/* Navbar */}

@@ -3,6 +3,7 @@ module.exports = {
   plugins: [
     require('tailwindcss'),
     require('autoprefixer'),
+    require('daisyui'),
     // Other PostCSS plugins as needed
   ],
   content:  [

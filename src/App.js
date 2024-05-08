@@ -1,8 +1,11 @@
 import './App.css';
 import FlavorSection from './sections/flavorSection';
+import Footer from './sections/footer';
 import HeroSection from './sections/heroSection';
 import NumberSection from './sections/numberSection';
 import PopularSection from './sections/popularSection';
+import PremiumSection from './sections/premiumSection';
+
 
 
 function App() {
@@ -11,9 +14,8 @@ function App() {
   <HeroSection/>
  <NumberSection/>
  <FlavorSection/>
- <PopularSection/>
- {/* <FlavorSection/> */}
-
+<PopularSection/>
+<Footer/>
     </div>
   );
 }
